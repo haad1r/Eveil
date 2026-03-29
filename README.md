@@ -4,7 +4,7 @@
  
 ---
  
-## 📖 Table of Contents
+## 📖 Hardware Table of Contents
  
 - [How It Works](#how-it-works)
 - [System Architecture](#system-architecture)
